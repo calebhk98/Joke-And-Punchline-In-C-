@@ -1,0 +1,10 @@
+C:\Users\caleb\source\repos\Joke and Punch Line\Joke and Punch Line\bin\Debug\Joke and Punch Line.exe.config
+C:\Users\caleb\source\repos\Joke and Punch Line\Joke and Punch Line\bin\Debug\Joke and Punch Line.exe
+C:\Users\caleb\source\repos\Joke and Punch Line\Joke and Punch Line\bin\Debug\Joke and Punch Line.pdb
+C:\Users\caleb\source\repos\Joke and Punch Line\Joke and Punch Line\obj\Debug\Joke and Punch Line.csprojAssemblyReference.cache
+C:\Users\caleb\source\repos\Joke and Punch Line\Joke and Punch Line\obj\Debug\Joke_and_Punch_Line.Form1.resources
+C:\Users\caleb\source\repos\Joke and Punch Line\Joke and Punch Line\obj\Debug\Joke_and_Punch_Line.Properties.Resources.resources
+C:\Users\caleb\source\repos\Joke and Punch Line\Joke and Punch Line\obj\Debug\Joke and Punch Line.csproj.GenerateResource.cache
+C:\Users\caleb\source\repos\Joke and Punch Line\Joke and Punch Line\obj\Debug\Joke and Punch Line.csproj.CoreCompileInputs.cache
+C:\Users\caleb\source\repos\Joke and Punch Line\Joke and Punch Line\obj\Debug\Joke and Punch Line.exe
+C:\Users\caleb\source\repos\Joke and Punch Line\Joke and Punch Line\obj\Debug\Joke and Punch Line.pdb
